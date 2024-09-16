@@ -12,8 +12,8 @@
 :root {
     --primary-color: rgb(255, 255, 255);
     --secondary-color: rgb(37, 37, 37);
-    --primary-bg-color: rgb(250, 102, 23);
-    /* --primary-bg-color:rgb(0, 69, 153); */
+    /* --primary-bg-color: rgb(250, 102, 23); */
+    --primary-bg-color:rgb(0, 69, 153);
     --secondary-bg-color: rgb(37, 37, 37);
     --tertiary-bg-color: rgb(255, 255, 255);
     --fs-16: 16px;
